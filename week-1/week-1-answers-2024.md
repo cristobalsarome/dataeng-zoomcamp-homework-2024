@@ -77,9 +77,8 @@ Remember that `lpep_pickup_datetime` and `lpep_dropoff_datetime` columns are in 
 - 15859
 - 89009
 
-```
-code link: [here](questions_3_to_6.ipynb)
-```
+**See code here:** [link to code](questions_3_to_6.ipynb)
+
 
 
 ## Question 4. Largest trip for each day
@@ -92,6 +91,7 @@ Use the pick up time for your calculations.
 - **2019-09-26** ✅
 - 2019-09-21
 
+**See code here:** [link to code](questions_3_to_6.ipynb)
 
 ## Question 5. Three biggest pick up Boroughs
 
@@ -104,6 +104,7 @@ Which were the 3 pick up Boroughs that had a sum of total_amount superior to 500
 - "Bronx" "Manhattan" "Queens" 
 - "Brooklyn" "Queens" "Staten Island"
 
+**See code here:** [link to code](questions_3_to_6.ipynb)
 
 ## Question 6. Largest tip
 
@@ -117,6 +118,7 @@ Note: it's not a typo, it's `tip` , not `trip`
 - **JFK Airport** ✅
 - Long Island City/Queens Plaza
 
+**See code here:** [link to code](questions_3_to_6.ipynb)
 
 
 ## Terraform
